@@ -7,15 +7,14 @@
 		<ng-template [ngIf]="!sessionService.enabledExternalAuthProviders.length">
 		</ng-template>
 		<ng-template [ngIf]="sessionService.enabledExternalAuthProviders.length">
-			<h3 class="l-ruleheadline ruleheadline">
-				Sign in With</h3>
+			<h3 class="l-ruleheadline ruleheadline" i18n>Sign in With</h3>
 			<div class="l-socialbuttons u-margin-top2x">
 				<button
 					*ngFor="let provider of sessionService.enabledExternalAuthProviders"
 					(click)="sessionService.initiateUnauthenticatedExternalAuth(provider)"
 					class="socialbutton"
 					[style.backgroundColor]="provider.color">
-					<div class="visuallyhidden">Access with {{provider.label}}</div>
+					<div class="visuallyhidden" i18n>Access with {{provider.label}}</div>
 					<img [src]="sanitize(provider.imgSrc)" alt="">
 				</button>
 			</div>
@@ -23,8 +22,7 @@
 
 		<h3
 			*ngIf="sessionService.enabledExternalAuthProviders.length && !features.disableRegistration"
-			class="l-ruleheadline ruleheadline">
-			Or</h3>
+			class="l-ruleheadline ruleheadline" i18n>Or</h3>
 
 		<form class="u-margin-top2x"
 		      (ngSubmit)="submitAuth()"
@@ -56,7 +54,7 @@
 				   href="#"
 				   tabindex="-1"
 				   [routerLink]="['/auth/request-password-reset', usernameField.value]"
-				>Forgot Password?</a>
+				i18n>Forgot Password?</a>
 				</span>
 			</bg-formfield-text>
 
@@ -67,7 +65,7 @@
 				        [disabled]="!! loginFinished"
 				        [loading-promises]="[ loginFinished ]"
 				        loading-message="Signing In"
-				>Sign In
+				i18n>Sign In
 				</button>
 
 				<!-- Remember Me Checkout -->
@@ -77,8 +75,7 @@
 					       type="checkbox"
 					       [formControl]="loginForm.rawControlMap.rememberMe"
 					>
-					<span class="checkbox-x-text"
-					>Remember me</span>
+					<span class="checkbox-x-text" i18n>Remember me</span>
 				</label>
 			</div>
 		</form>

@@ -1,0 +1,8 @@
+[main]
+host = https://www.transifex.com
+
+[badgr-ui.messagesxlf]
+file_filter = src/locale/messages.<lang>.xlf
+minimum_perc = 0
+source_file = src/messages.xlf
+source_lang = en

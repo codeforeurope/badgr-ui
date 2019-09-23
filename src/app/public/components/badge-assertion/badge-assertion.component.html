@@ -39,12 +39,12 @@
 					     width=48
 					/>
 					<dl>
-						<dt>Issued By</dt>
+						<dt i18n>Issued By</dt>
 						<dd>{{issuer.name}}</dd>
 					</dl>
 				</div>
 				<dl class="oembedbadge-x-info">
-					<dt>Issued On</dt>
+					<dt i18n>Issued On</dt>
 					<dd>
 						<time [date]="assertion.issuedOn" format="mediumDate"></time>
 					</dd>
@@ -52,7 +52,7 @@
 				<dl class="oembedbadge-x-info"
 				    *ngIf="assertion.expires"
 				>
-					<dt>Expires On</dt>
+					<dt i18n>Expires On</dt>
 					<dd>
 						<time [date]="assertion?.expires" format="mediumDate"></time>
 					</dd>
@@ -60,7 +60,7 @@
 				<a class="button button-tertiary"
 				   [href]="assertion.id"
 				   target="_blank"
-				>View Credential</a>
+				i18n>View Credential</a>
 			</div>
 		</div>
 
@@ -68,19 +68,19 @@
 		<div class="oembedbadge-x-slide">
 			<button class="oembedbadge-x-toggle"
 			        (click)="toggleShowV2EmbedDescription()"
-			>
+			i18n>
 				{{showV2EmbedDescription ? 'Hide Description' : 'Show Description'}}
 			</button>
 			<div class="oembedbadge-x-slideinner">
 				<div>
-					<h2>Description</h2>
+					<h2 i18n>Description</h2>
 					<p class="u-text" [truncatedText]="badgeClass.description" [maxLength]="186"></p>
 						<br/>
 						<a class="button button-tertiary u-margin-top3x u-display-inlineblock"
 						   [href]="assertion.id"
 						   target="_blank"
 						   rel="noopener"
-						>View Credential</a>
+						i18n>View Credential</a>
 				</div>
 			</div>
 		</div>

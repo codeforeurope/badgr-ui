@@ -1,0 +1,549 @@
+<?xml version="1.0" ?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="plaintext" original="ng2.template" source-language="en" target-language="nl">
+    <body>
+      <trans-unit datatype="html" id="18dc8ccf9f138e0b895ed80f68e8b50db921f791">
+        <source>Sign
+						In</source>
+        <target>Aanmelden</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="e19fcf996343543e13789f17b550ab0c08124b5c">
+        <source>Create Account</source>
+        <target>Registreren</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">86</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="fd6c033d7f9ca4932668e604ea5fb60afbfeeb51">
+        <source>Backpack</source>
+        <target>Rugzak</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">98</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="d14d93e7ed17daa7a6b4238a3413056df11e1acb">
+        <source>Collections</source>
+        <target>Collecties</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">99</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="5143179581cd007d566f97e2f0216c883f0a1a4f">
+        <source>Issuers</source>
+        <target>Uitgevers</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">100</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="4c78c0da1bcd65bc0598c4d9474bde165de27d7a">
+        <source>Apps</source>
+        <target>Apps</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">88</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">103</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="29881a45dafbe5aa05cd9d0441a4c0c2fb06df92">
+        <source>Account</source>
+        <target>Account</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="f08df667279f97275609bd5d9a1b5f462d88f983">
+        <source>Open Menu</source>
+        <target>Menu openen</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="994363f08f9fbfa3b3994ff7b35c6904fdff18d8">
+        <source>Profile</source>
+        <target>Profiel</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">75</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="456b871a613c631911722b06f944625a9ab9379c">
+        <source>App
+			Integrations</source>
+        <target>Integraties</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">76</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="34bb63e88c5d12e82c4299f7692d36bf13ba2ac5">
+        <source>Sign
+			Out</source>
+        <target>Afmelden</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">78</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="ba4f24bf9bf3dc4db3d6bc1b8b63339295f0b806">
+        <source>Sign In</source>
+        <target>Aanmelden</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">85</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="a64dc208aa903cd9623f5998cadd12b3bfa280b2">
+        <source>App Integrations</source>
+        <target>Integraties</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">113</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="640eec093c685babaa3265137215e3cc92ad704d">
+        <source>Sign Out</source>
+        <target>Afmelden</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">114</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="f7ee118ab77f642e614426578d58b671112374e8">
+        <source>Whoops! The server has failed to respond.</source>
+        <target>Oeps! De server reageert niet.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">130</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="cbe12ac1329164ee21ff104d02c4ea594faa60f3">
+        <source>Please refresh and try again.</source>
+        <target>Ververs en probeer opnieuw.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">131</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="596d65263456e81ac98fb7f8d616bf01adfc17a8">
+        <source>Powered by</source>
+        <target>Gemaakt met</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">150</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="6fe71ca9aea70a1221754357e0028e427b93e8cc">
+        <source>Badgr</source>
+        <target>Badgr</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">150</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="e0d75699593bf8d2e8c95bc044aa6ea8309320ae">
+        <source>Provided by</source>
+        <target>Mogelijk gemaakt door</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">151</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="aa4f4b7c81ae9cabfcebc2173f31e3f4bf08d833">
+        <source>Terms of Service</source>
+        <target>Voorwaarden</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">156</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/signup/components/signup/signup.component.html</context>
+          <context context-type="linenumber">147</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="52e2727e5be31ebdc80427f9352f2ef2943acfce">
+        <source>Privacy
+						Policy</source>
+        <target>Privacybeleid</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">157</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="fcfd4675b4c90f08d18d3abede9a9a4dff4cfdc7">
+        <source>Documentation</source>
+        <target>Documentatie</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="3330bf6f53a46e2b5d4d09240bca0c48ae3787d3">
+        <source>
+				Sign in With</source>
+        <target>Aanmelden met</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/login/login.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="888ba0deede592e56fdf845e753106a75ecf4eaf">
+        <source>Access with <x equiv-text="{{provider.label}}" id="INTERPOLATION"/></source>
+        <target>Aanmelden met <x equiv-text="{{provider.label}}" id="INTERPOLATION"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/login/login.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="9da9071d8e2c80e1748cedb4e3b3d43bcc31ecea">
+        <source>
+			Or</source>
+        <target>of</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/login/login.component.html</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="6255a8674662e55d6ccc3ad46cc1dd0dd6394d75">
+        <source>Forgot Password?</source>
+        <target>Wachtwoord vergeten?</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/login/login.component.html</context>
+          <context context-type="linenumber">59</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="eed2942e02c57e98cb15b2bd531abe5e73a035ac">
+        <source>Sign In
+				</source>
+        <target>Aanmelden</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/login/login.component.html</context>
+          <context context-type="linenumber">70</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="3eb49d60bd859eb2d9d3a6d380cdf4e0b8252333">
+        <source>Remember me</source>
+        <target>Onthoud mij</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/login/login.component.html</context>
+          <context context-type="linenumber">81</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="7d1881c1c4693612e00cf915e8e096a2a5635bb1">
+        <source>
+			Forgot your password?
+		</source>
+        <target>Wachtwoord vergeten?</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/request-password-reset/request-password-reset.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="399b42157c246d6e55583718a112b14a1631078e">
+        <source>
+			Fill in your email, and we'll help you reset your password.
+		</source>
+        <target>Geef je emailadres en het wachtwoord zal worden hersteld.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/request-password-reset/request-password-reset.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="a1acbab7d1634594de9731f3bbf1de58a47c6a15">
+        <source>
+					Forgot Password
+				</source>
+        <target>Wachtwoord vergeten</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/request-password-reset/request-password-reset.component.html</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="d7b35c384aecd25a516200d6921836374613dfe7">
+        <source>Cancel</source>
+        <target>Annuleren</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/request-password-reset/request-password-reset.component.html</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/reset-password/reset-password.component.html</context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="2e0baa971d95772bd2dce2904bc398f4ae3b2fea">
+        <source>
+					Reset Password
+				</source>
+        <target>Wachtwoord herstellen</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/request-password-reset/request-password-reset.component.html</context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="56f810274699683db1c4395ad7d487e6206e6506">
+        <source>
+			Almost there...
+		</source>
+        <target>Bijna klaar...</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/reset-password-sent/reset-password-sent.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="26f480728be3b0af5b74cae0efc7067cfbfefdaf">
+        <source>
+			Check your inbox for an email to confirm this 
+			request and choose a new password.
+		</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/reset-password-sent/reset-password-sent.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="34557152cff7bc7db72a2a8706794d7fba4bac86">
+        <source>Reset Password</source>
+        <target>Wachtwoord herstellen</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/reset-password/reset-password.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="2de4e5c5bb83b65651361f9cd3c3054fbad3f458">
+        <source>Enter a new password</source>
+        <target>Geef een nieuw wachtwoord op</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/reset-password/reset-password.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="5edf054f14aa57bc25a28cb7db01956fee53dac8">
+        <source>Change Password</source>
+        <target>Wachtwoord wijzigen</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/reset-password/reset-password.component.html</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="e005676b7af9bb1faf9f83975ed5313b0c9b653d">
+        <source>
+					<x equiv-text="{{ authorizingApp?.application?.name }}" id="INTERPOLATION"/> would like to
+				</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/oauth2-authorize/oauth2-authorize.component.html</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="a0cd7521460460523a351caf4be7282eac0735fc">
+        <source>Know who you are on <x equiv-text="{{ theme.serviceName || &quot;Badgr&quot; }}" id="INTERPOLATION"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/oauth2-authorize/oauth2-authorize.component.html</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="f4f3abf7f5203bbfa775384a91b62a496c407413">
+        <source>
+				By clicking Authorize, you are allowing this application and
+				<x equiv-text="{{ theme.serviceName || &quot;Badgr&quot; }}" id="INTERPOLATION"/> to use your information in accordance
+				with their respective terms of service and privacy policies. You can
+				change this and other account permissions at any time from the Profile
+				menu.
+			</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/oauth2-authorize/oauth2-authorize.component.html</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="74c8d5961e21ce38998c9500d952a4f520c3e906">
+        <source>
+					Authorize
+				</source>
+        <target>Toestaan</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/oauth2-authorize/oauth2-authorize.component.html</context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="d846684cc7a09a16af512218e51cb0378668230d">
+        <source>
+					Cancel
+				</source>
+        <target>Annuleren</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/oauth2-authorize/oauth2-authorize.component.html</context>
+          <context context-type="linenumber">51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="25f67787e15f68ce70409f121d66d1268f1c7f61">
+        <source>Welcome to</source>
+        <target>Welkom bij</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/welcome/welcome.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="1725215f58221b4371ae116cc238070b08215345">
+        <source>Badgr!</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/welcome/welcome.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="d9d7c270510e693eef565e78c6de98e038d6d5bc">
+        <source>Tell your story with</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/welcome/welcome.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="75dc591672a3991cacd52e008f75ed42ce40d0d9">
+        <source>Badges</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/welcome/welcome.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="3d93b51566447109eaa49ebd776acf4d6c6bf62d">
+        <source>Badges are your achievements, showing when and how you earned them. They are meant to be shared!</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/welcome/welcome.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="37a545fbd6326ffd02d00562774e8c550347157a">
+        <source>Store your badges in your <x ctype="x-span" equiv-text="&lt;span&gt;" id="START_TAG_SPAN"/>Backpack<x ctype="x-span" equiv-text="&lt;/span&gt;" id="CLOSE_TAG_SPAN"/></source>
+        <target>Bewaar je badges in je <x ctype="x-span" equiv-text="&lt;span&gt;" id="START_TAG_SPAN"/> rugzak <x ctype="x-span" equiv-text="&lt;/span&gt;" id="CLOSE_TAG_SPAN"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/welcome/welcome.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="4b564b94a5667b6e28f5b7287b926a01e5e28622">
+        <source>Organize, display and manage your badges.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/welcome/welcome.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="c49ceeb5feda6b4a68b115b33f5b2dc4a01fbccb">
+        <source>Arrange your badges into <x ctype="x-span" equiv-text="&lt;span&gt;" id="START_TAG_SPAN"/>Collections<x ctype="x-span" equiv-text="&lt;/span&gt;" id="CLOSE_TAG_SPAN"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/welcome/welcome.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="8c9c4b24637ac2081578ae7ff6d52304c491aa5f">
+        <source>Share your collections with specific people.</source>
+        <target>Deel je collecties met bepaalde personen.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/welcome/welcome.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="fb42b531f86ef5cd2fb69d4d6da682b687cfd5f1">
+        <source>Vouch for skills as an <x ctype="x-span" equiv-text="&lt;span&gt;" id="START_TAG_SPAN"/>Issuer<x ctype="x-span" equiv-text="&lt;/span&gt;" id="CLOSE_TAG_SPAN"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/welcome/welcome.component.html</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="6b3d54c3453784d822189ba85ef95d0fedd4decd">
+        <source>Individuals or organizations can give out badges. You, too, can be an issuer!</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/welcome/welcome.component.html</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="802222cb4754d74846b18f651b1f94e21576185d">
+        <source>Get Started</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/auth/components/welcome/welcome.component.html</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="287d3301a32a65a1b31116bda5d3a6463158c42a">
+        <source>Sign in</source>
+        <target>Aanmelden</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/signup/components/signup/signup.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/signup/components/signup/signup.component.html</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="c3ec9da7b96289af3353495b6b27aac292599477">
+        <source>Sign Up With</source>
+        <target>Aanmelden met</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/signup/components/signup/signup.component.html</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="bb3a875bbb38009b714f9ff0c7d55b66abbf3ca8">
+        <source>
+								Please read and agree to the Terms of Service if you want to continue.
+							</source>
+        <target>
+								Lees en bevestig de voorwaarden om door te gaan.
+							</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/signup/components/signup/signup.component.html</context>
+          <context context-type="linenumber">152</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="4e3105ac82d16c5f0ed38966208c08696902b1e4">
+        <source>Cancel
+					</source>
+        <target>Annuleren
+					</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/signup/components/signup/signup.component.html</context>
+          <context context-type="linenumber">179</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit datatype="html" id="35819fbb9400d7a0e57ebb980af63da4970eec44">
+        <source>Create Account
+					</source>
+        <target>Registreren
+					</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/signup/components/signup/signup.component.html</context>
+          <context context-type="linenumber">186</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

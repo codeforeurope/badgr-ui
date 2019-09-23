@@ -22,6 +22,12 @@ import {initializeTheme} from '../theming/theme-setup';
 import {timeoutPromise} from './common/util/promise-util';
 import { MozzTransitionModule } from "./mozz-transition/mozz-transition.module";
 
+import { registerLocaleData } from '@angular/common';
+import localeNl from '@angular/common/locales/nl';
+
+// the second parameter 'nl' is optional
+registerLocaleData(localeNl, 'nl');
+
 // Force AuthModule and ProfileModule to get included in the main module. We don't want them lazy loaded because
 // they basically always need to be present. We have have functions that return them, but use strings in the Routes
 // because of https://github.com/angular/angular-cli/issues/4192
